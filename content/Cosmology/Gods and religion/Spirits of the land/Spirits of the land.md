@@ -8,3 +8,8 @@ Some examples of spirits could be water or fire spirits. Bound to springs, seas 
 
 A list of all the Spirits of the land:
 - [[Fulfelt]] 
+
+# Varia notes on spirits
+spirits can have children. These are not really children but an affect of their mind further fracturing due to their existence. These children are small fragments and usually are mini versions of the spirits form and mind
+
+
