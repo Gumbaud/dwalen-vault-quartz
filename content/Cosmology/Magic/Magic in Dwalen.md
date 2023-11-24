@@ -3,6 +3,8 @@ tags:
   - Magic
 publish: false
 ---
+Begin
+
 >[!Meta] 
 >This is the starting point for info on the magical system in Dwalen. For draft notes on the magical system, head over to: [[Notes]]
 
@@ -24,6 +26,9 @@ Because of this, each informational cluster will get its own page, to really div
 # The Arcaneum
 ## Fundamentals
 * [[Aum - The magical energy]]
-* 
-
-
+* [[The soul, the body and aum]]
+* [[Arcane grammerie]]
+## The three flows/ disciplines 
+* Spellcraft
+* [[Channeling, sourcing and cycling]]
+* Mental projection
