@@ -3,9 +3,7 @@ tags:
   - Magic
 publish: false
 ---
-Begin
-
->[!Meta] 
+>[!Info] 
 >This is the starting point for info on the magical system in Dwalen. For draft notes on the magical system, head over to: [[Notes]]
 
 > [!info]
@@ -29,6 +27,13 @@ Because of this, each informational cluster will get its own page, to really div
 * [[The soul, the body and aum]]
 * [[Arcane grammerie]]
 ## The three flows/ disciplines 
+* [[The magic mind, projection, the veil and the interstice]]
 * Spellcraft
 * [[Channeling, sourcing and cycling]]
 * Mental projection
+## Further reading
+* Enchanting
+* Spell gems
+* Mind fortress?
+* Teleportation?
+* 
