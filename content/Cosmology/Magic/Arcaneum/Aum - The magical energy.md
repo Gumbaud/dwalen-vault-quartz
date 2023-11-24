@@ -1,0 +1,5 @@
+---
+tags:
+  - Magic
+  - Arcaneum
+---
