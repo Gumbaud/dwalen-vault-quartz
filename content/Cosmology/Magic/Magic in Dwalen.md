@@ -3,17 +3,16 @@ tags:
   - Magic
 publish: false
 ---
-ladida
+>[!example] Meta
+This is the starting point for info on the magical system in Dwalen. For draft notes on the magical system, head over to: [[Notes]]
 
-# Notes on Aum, Everessence and magical energy
-* [[Notes on Aum]]
+> [!info]
+Magic in Dwalen has gone through a whole evolution over the ages. Here we will be talking mainly about the system that is called the Second Weave. For info and history about the First Weave and the evolution of magic in Dwalen, you can go to [[History of Magic in Dwalen]].
 
-# Notes on Spells and spellcrafting
-ddd
-# Notes on the mind, mind castles and projection
-dd
 
-# Various notes:
-[[loose notes]] 
+
+
+# Fundamentals
+energy source
 
 
