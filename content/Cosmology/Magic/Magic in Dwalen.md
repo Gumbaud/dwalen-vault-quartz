@@ -27,10 +27,9 @@ Because of this, each informational cluster will get its own page, to really div
 * [[The soul, the body and aum]]
 * [[Arcane grammerie]]
 ## The three flows/ disciplines 
+* [[Channeling, sourcing, the aum nervures and cycling]]
 * [[The magic mind, projection, the veil and the interstice]]
-* Spellcraft
-* [[Channeling, sourcing and cycling]]
-* Mental projection
+* [[About spellcraft and spell rot]]
 ## Further reading
 * Enchanting
 * Spell gems
