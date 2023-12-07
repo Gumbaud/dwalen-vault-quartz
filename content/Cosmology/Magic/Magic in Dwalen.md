@@ -19,8 +19,6 @@ The various ways that the Second Weave interacts with a mage's body, and the wor
 
 Because of this, each informational cluster will get its own page, to really dive deep into the fine details. They are ordered in a somewhat logical sequence, starting from the fundamentals and working up from there. In each separate note you will find a link back to here, and a link to the next note in the ordered list. The full list can be found below for ease of use. We call this the Arcaneum.
 
-
-
 # The Arcaneum
 ## Fundamentals
 * [[Aum - The magical energy]]
@@ -33,6 +31,5 @@ Because of this, each informational cluster will get its own page, to really div
 ## Further reading
 * Enchanting
 * Spell gems
-* Mind fortress?
 * Teleportation?
 * 

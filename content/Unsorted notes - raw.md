@@ -3,6 +3,18 @@ common folk being attacked by them on the border.
 No! I will not be swayed by your silver tongue work!
 
 
+**STORY**: Magical skillset and potentials:
+* MMC -> More combat oriented magic. He focusses on spells that have specific, direct effects at a low cost and aiming for low complexity to reach it. Focusses on gaining spell rot and nervure slag as slow as possible and even tries to get rid of it 'on the go'. Spells often have a direct use in combat.
+* FMC -> Focusses on more complex, drawn out, time consuming spells. High cost, high reward type spells that are often short rituals. Complex arcane grammerie and great Aum costs.
+* Aerim MC -> Focusses, like his people, on enchanting, wards, and things like that.
+
+
+**STORY**: In Dwalen, specifically in Trynn, in Merea, some people look down on some spells. While other spells are seen as more noble, or better to use. Using the 'bad' spells can make people think less of you, and make them see you as a sort of barbarian. Unsophisticated. Sadly, often these misconceptions do not favor 'Good' spells, but more flashy ones. A good spell to them, is not necessarily the best spell to use for their predefined scenario. It just fits their narrative and image. 
+
+
+**STORY**: Halls of **X**.  **X** is some type of Demon faction. It is ruled by one of the '**High princes of Hell**', hell being the demonic realm. There are other factions in Hell. **X** is just one, or the, faction that helped **Ur** for the most.
+
+
 **Quote** by some badass: It is not up to you or me to judge that. It is something between them and their god. But I can arrange for them to meet their god. And that is exactly what I am going to do
 
 

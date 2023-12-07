@@ -1,0 +1,3 @@
+The Aerim, as the Catfolk of Aeraemar are often called, are known all over the world for their great talent in the arcane.
+
+Aerim are especially known for their incredible talent for making arcane constructs in the **Interstice**. Their constructs are incredibly complex webbings of spells and the like. This makes them exceptional masters at **enchanting** and creating **wards** and other such arcane constructs.

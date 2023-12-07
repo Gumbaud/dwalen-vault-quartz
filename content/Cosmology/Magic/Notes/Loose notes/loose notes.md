@@ -79,3 +79,4 @@ spiritualists are incredibly strong. they are people who merge with spirtis, asf
 
 # Linked notes
 * *[[On blood and magic]] 
+* [[On Catfolk and magic]] 

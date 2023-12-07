@@ -18,3 +18,11 @@ perfecting mind's castle and creating a 'own space' in the interstice
 attacking other projected bodies
 learning how to break mind castles
 learning how to break owned spaces in the interstice
+
+
+
+Projecting -> Training can lead to: 
+* Better detection of ambient and external Aum in the interstice. You will become better at detecting the Aum traces others leave behind.
+* Better detection of other's projections in the interstice
+* Stronger projection -> Harder to attack you. Harder to break you. Harder to overpower you.
+* Stronger first ward -> your mind castle and projected root are safer. It becomes harder for others to enter it, or interact with it, without your blessing to do so.
