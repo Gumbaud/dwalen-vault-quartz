@@ -1,3 +1,6 @@
+**STORY**: There lives a sort of hermit in the periphery. They are an old member of the guild. Technically still a member but retired. MMC needs to meet with them first to get info on the Merean cluster. 
+The hermit is rather jaded and when asked why he has done nothing to train at least a few people better it is clear that he is rather alone and has forsaken most of his duties as a guild member. Even going so far as to work MMC out of their house.
+
 **STORY**: FMC or somebody else has Prophecy like powers, A prophecy reaches her about the oncomming doom for merea from the Urists. But she also sees a sliver of hope. MMC. So she goes out to meet them. perhaps this is why the boars are where the MMC is fighting off the Wyldekin for the 
 common folk being attacked by them on the border. 
 No! I will not be swayed by your silver tongue work!
@@ -169,3 +172,8 @@ a species neutered
 took their own excellence away
 to be equal
 because they did not learn to embrace each other
+
+
+
+
+Battle tactics idea: both horses and other, larger animals are used. Horses are scared of these, like elephants in the ancient times. So they can be used to block cavalry

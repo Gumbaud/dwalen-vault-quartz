@@ -6,3 +6,7 @@ Merea are the lands that once were part of the Merean empire. With the empire go
 [[The Periphery]]
 [[Doryn]]
 [[Tryn]]
+[[Vetruse]]
+[[Byrelle]]
+
+

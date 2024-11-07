@@ -29,7 +29,17 @@ Because of this, each informational cluster will get its own page, to really div
 * [[The magic mind, projection, the veil and the interstice]]
 * [[About spellcraft and spell rot]]
 ## Further reading
-* Enchanting
+* The different types of weave
+	* First Weave - Psionic weave
+	* Second Weave - Nexus weave
+	* Void weave - Dangerous use of the Father energy
+	* Green Weave - Dangerous use of the Mother energy
+	* Divine Weave/ Golden Weave - The weave used by gods and other higher entities
+	* Demonic Weave - Energies from the Demonic realm
+	* All Weave - theorized to exist by the higher divine beings, a weave above the level of the Mother and Father. 
+* Enchanting and imbuing
+	* Enchanting -> Adding arcane grammerie to a thing
+	* imbuing -> Simply injecting Aum into a thing
 * Spell gems
 * Teleportation?
 * 
