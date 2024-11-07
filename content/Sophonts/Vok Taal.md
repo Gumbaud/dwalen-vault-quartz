@@ -1,0 +1,2 @@
+Green (star) demons/ Vok taal -> Alien species that arrived with a fleet of starships in the system of the Disk. When the cataclysm hit, they where stranded here. They still are able to operate their Psyionic gas with their Psionic wavelength manipulators.
+This allows them to convert the gas into virtually anything. This is seen as their type of magic. It is mostly computer orchestrated. They also have energetic weapons.

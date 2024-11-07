@@ -1,4 +1,5 @@
 # History and lore
+OLD and OBSOLETE
 
 > [!warning]
 > The history written here is from the omniscient view of the creator. This is exact information. People living in Dwalen only have partial, uncomplete or lacking knowledge of this history.

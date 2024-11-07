@@ -1,0 +1,3 @@
+Dwes -> Remnant species from when the Golden seed landed. A sort of biologival automaton that gained sentience after being abandoned by their masters. They are now driven by expansionist tendencies that remain deeply rooted.
+They have a multi layered, queen - worker type of hierarchy. The Queens command the drones by Psyonic wavelengths. They had to burry themselves deep and learn to work around the influences of the Cataclysm. They are now back,
+which means they found a psyonic wavelength that they can use, albeit with some drawbacks to it. (slower, weaker, ...)
